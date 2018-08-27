@@ -1,8 +1,8 @@
 import React from 'react';
 import { BackHandler, Alert } from 'react-native';
 // hoc
-import withAuth, { Provider as AuthProvider } from './hoc/Auth';
-import withLoading, { Provider as LoadingProvider } from './hoc/Loading';
+import withAuth, { Provider as AuthProvider } from 'react-native-firebase-auth-hoc';
+import withLoading, { Provider as LoadingProvider } from 'react-native-loading-hoc';
 import withStyles from './styles';
 // components
 import Navigator from './navigator';

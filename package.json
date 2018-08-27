@@ -32,6 +32,8 @@
     "firebase": "^5.4.1-0",
     "react": "16.3.1",
     "react-native": "~0.55.2",
+    "react-native-firebase-auth-hoc": "^0.1.5",
+    "react-native-loading-hoc": "^0.1.3",
     "react-navigation": "^2.12.0",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
